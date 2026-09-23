@@ -19,3 +19,6 @@ add_executable(gamow src/gamow.cpp)
 
 # программа этапа 4: зависимость скорости реакций от температуры
 add_executable(rate src/rate.cpp)
+
+# программа этапа 5: энергетический баланс и критерий Лоусона
+add_executable(balance src/balance.cpp)
