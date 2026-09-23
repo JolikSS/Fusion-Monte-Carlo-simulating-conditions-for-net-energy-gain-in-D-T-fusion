@@ -14,5 +14,5 @@ add_executable(fusion_sim src/main.cpp)
 # программа этапа 2: из файла src/tunneling.cpp сделать программу tunneling
 add_executable(tunneling src/tunneling.cpp)
 
-# программа этапа 2: из файла src/gamow.cpp сделать программу gamow
+# программа этапа 3: из файла src/gamow.cpp сделать программу gamow
 add_executable(gamow src/gamow.cpp)
